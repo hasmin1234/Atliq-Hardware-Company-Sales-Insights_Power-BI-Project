@@ -6,7 +6,7 @@ This Project is about computer hardware business Atliq Hardware Company which wa
 To unlock sales insights that aren't visible before for decision making support and automate them to reduce manual time spent in data gathering.
 ## Stackholders
 1.Sales Director 
-2.Marketing Team
-3.Custome Service Team
-4.Data Analytics Team
-5.IT
+ 2.Marketing Team
+ 3.Custome Service Team
+ 4.Data Analytics Team
+ 5.IT
