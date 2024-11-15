@@ -14,18 +14,18 @@ To unlock sales insights that aren't visible before for decision making support 
 1.ETL(Extract,Transform,Load) with the help of Power BI built-in tool called Power Query.  
 -Extract: Importing of data  
 -Transform: Cleaned & Shaped data using Power Query Editor.These involved:  
-    *Removing duplicates irrelevant columns.
+    *Removing duplicates irrelevant columns.  
     *Filtering Rows and handling missing values.  
     *Changing data types  
--Load: After Transforming the data,loaded it into the Power BI data model.
+-Load: After Transforming the data,loaded it into the Power BI data model.  
 2.DAX formulas used for data modeling and creating calculated columns and measures.  
 3.Data Modeling to define relationships between tables.  
 4.Performed EDA (Exploratory Data Analysis):  
-    *Descriptive Statistics
-    *Indentified Outliers
-    *Correlations
-    *Trends Over Time
-5.Building Visualization
+    *Descriptive Statistics  
+    *Indentified Outliers  
+    *Correlations  
+    *Trends Over Time  
+5.Building Visualization.  
 6.Published to Power BI service to share.  
 
     
