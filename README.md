@@ -10,7 +10,7 @@ To unlock sales insights that aren't visible before for decision making support 
 3.Customer Service Team  
 4.Data Analytics Team  
 5.IT
-## Procedures that I follow
+## Procedures that I followed
 1.ETL(Extract,Transform,Load) with the help of Power BI built-in tool called Power Query.  
 -Extract: Importing of data  
 -Transform: Cleaned & Shaped data using Power Query Editor.These involved:  
