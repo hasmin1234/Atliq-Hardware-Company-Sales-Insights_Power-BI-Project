@@ -28,6 +28,6 @@ To unlock sales insights that aren't visible before for decision making support 
 5.Building Visualization.  
 6.Published to Power BI service to share.  
 ## Power BI Dashboard
-[link is here](https://app.powerbi.com/view?r=eyJrIjoiODI2NDdmN2ItMmZlNC00NWZiLTg3ODItMjYwM2VkNzE0N2QwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiODI2NDdmN2ItMmZlNC00NWZiLTg3ODItMjYwM2VkNzE0N2QwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
     
   
