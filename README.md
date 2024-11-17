@@ -46,5 +46,7 @@ _**Product Analysis**_.
 __RECOMMENDATION__
 ➡️ Invest in product development for underperforming products to enhance their competitiveness and market appeal.  
 
+This is **bold** text.  
+This is a new line.
 
   
