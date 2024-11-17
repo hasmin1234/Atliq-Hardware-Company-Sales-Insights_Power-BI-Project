@@ -34,5 +34,5 @@ To unlock sales insights that aren't visible before for decision making support 
 2.After 2017 there is a fast growth in business but in 2020 ,suddenly declined to  may be due to COVID-19 pandemic.  
 3.Delhi NCR is in top position to renerate revenue more than 50% all the years followed by Mumbai and Ahmedabad.  
 4.Bangaluru is the bottom performing market in revenue and profit margin contribution in all years of 2017,2018,2019,2020.  
-➡️REC
+__RECOMMENDATIONS__
   
