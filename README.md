@@ -45,8 +45,9 @@ _**Recommendation**_
 1.Premium Stores is the top customer of Atliq having purchase quantity of 2,79,000,revenue and profit margin are 44.97M and 1.1M rupees.  
 2.Top 5 Atliq customers are Premium Stores,Nixon,Electricalsara Stores,Electricalsopedia Stores and Excel Stores.  
 **PRODUCT ANALYSIS**  
+https://github.com/user-attachments/assets/6f6f1d02-1bc7-41a1-b699-093fbb2346f0
 1.Product_code 090, 293, 237, 245 and 265 are 5 top products.  
-2.There are more than 10 products whose sales quantity are very less.  
+2.There are more than 10 products whose sales quantity are very less either 1 or 2.  
 _**Recommendation**_  
 ➡️ Invest in product development for underperforming products to enhance their competitiveness and market appeal.  
 
