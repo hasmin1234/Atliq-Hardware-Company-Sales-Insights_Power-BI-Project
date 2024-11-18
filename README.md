@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/f2c1f71d-c7cd-4c6b-b943-3685103e1fcc
 1.Delhi NCR is in top position to renerate revenue more than 50% all the years followed by Mumbai and Ahmedabad.  
 2.Bangaluru is the bottom performing market in revenue and profit margin contribution in all years of 2017,2018,2019,2020.  
 _**Recommendation**_  
-➡️ Conduct market research to understand their preference, which enable more strategic decisions.  
+➡️ Conduct market research in Bangaluru and other underperforming markets to understand their preference, which enable more strategic decisions.  
 **CUSTOMER ANALYSIS**  
 ![Screenshot_20241118_124544](https://github.com/user-attachments/assets/6be42965-abaf-47d7-b12c-26a3a031ea9f)
 1.Premium Stores is the top customer of Atliq having purchase quantity of 2,79,000,revenue and profit margin are 44.97M and 1.1M rupees.  
